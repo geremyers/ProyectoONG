@@ -2,7 +2,7 @@ import flet as ft
 
 
 def main(page: ft.Page):
-    # Configuraciones de la página
+    # Configuraciones de la página matias
     page.title = "Ushuaia ONG"
     page.theme_mode = ft.ThemeMode.LIGHT
     page.padding = 0
